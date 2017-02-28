@@ -5,7 +5,7 @@ The experimental its worked good the version master its basic. the experimental-
 27/02/17 Finally experimental commits its stable :) more performance and add commits missing ohhh yeahhhh!!!
 --------------------------This information Update kernel to Linux 3.0.98 master------------------------------
 In the experimental Only linux options are added 3.0.93 missing files and performance improvements
---------------------------Commits Important------------------------------------ \n
+--------------------------Commits Important------------------------------------ 
 Documentation/cgroups/cgroups.txt 
 Documentation/cgroups/cpuacct.txt 
 Documentation/hid/uhid.txt 
