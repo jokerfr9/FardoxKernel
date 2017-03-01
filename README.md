@@ -2,6 +2,9 @@
 This kernel master on version 3.0.98
 The experimental its worked good the version master its basic. the experimental-commits its complement the master its more performance.
 
+
+------The version 3.0.99 in coming upload information 01/03/17------coming soon----
+
 27/02/17 Finally experimental commits its stable :) more performance and add commits missing ohhh yeahhhh!!!
 --------------------------This information Update kernel to Linux 3.0.98 master------------------------------
 In the experimental Only linux options are added 3.0.93 missing files and performance improvements
